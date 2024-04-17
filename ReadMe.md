@@ -9,7 +9,7 @@
 ## Distribution
 
 Maps of the distribution of the CWRs in the preliminary list of CWRs for Europe shared by Louisa (like the one below) are saved in `"./GIFT/Outputs/CWR_World_Maps"`. The code to produce them is in `"./GIFT/Code/GIFT_Sandbox.R"` with a bunch of other experimental code—I still need to clean this up.
-<img src="./GIFT/Outputs/CWR_World_Maps/Agropyron_cristatum.png" alt="/Users/lucabutikofer/Computation/Cousin/GIFT/Outputs/CWR_World_Maps/Agropyron cristatum distribution" width="200"/>
+![](.GIFT/Outputs/CWR_World_Maps/ "Agropyron cristatum distribution")
 
 
 ## Phylogeny
