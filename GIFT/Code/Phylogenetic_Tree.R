@@ -128,7 +128,7 @@ sp_phy$nearest_crop <- # nearest crop
     crop_names <- # crop names (there may be multiple equidistant crops)
       cr_candidates[cr_candidates == crop_dist] %>%
       names
-  
+    
     return(sort(crop_names[1])) # return first in alfabetical order
     
   })
@@ -146,8 +146,8 @@ sp_phy$crop_common_name <- # add crop's common name
   crops %>%
   filter(!duplicated(.[["harmonised_name"]])) %>% # remove duplicates (same harmonised_name)
   mutate(nearest_crop = gsub("([[:punct:]])|\\s+",
-                        "_",
-                        harmonised_name)) %>%
+                             "_",
+                             harmonised_name)) %>%
   left_join(sp_phy, ., by = "nearest_crop") %>%
   pull(common_name)
 
@@ -164,35 +164,28 @@ sp_phy <- # sort species in the same order as phylogeny
   left_join(tibble(species = phy$tip.label),
             sp_phy,
             by = "species")
-  
+
 phy_plot <- # phylogenetic plot
-  ggtree(phy,
-         layout = "circular",
-         color = "grey")  %<+%
-  sp_phy +
-  geom_tiplab(size = 1.25,
-              offset = 4) +
-  geom_fruit(geom = geom_tile,
-             mapping = aes(fill = is_crop),
-             width = 3,
-             offset = 0.01) +
-  new_scale_fill() +
-  geom_fruit(geom = geom_tile,
-             mapping = aes(fill = crop_common_name),
-             width = 6,
-             offset = .25) +
-  # geom_fruit(geom = geom_text,
-  #            mapping = aes(label = sp_phy$crop_common_name),
-  #            offset = 1,
-  #            pwidth = .01) 
-  theme(legend.title = element_text(size = 7),
-        legend.text = element_text(size = 5),
-        legend.key.size = unit(4, 'mm'),
-        legend.position = "right")
-
-
-phy_plot
-
+  ggtree(phy, layout = "circular") +
+    geom_fruit(data = sp_phy,
+               geom = geom_tile,
+               mapping = aes(y = species,
+                             fill = is_crop),
+               width = 3,
+               offset = 0.01) +
+    geom_tiplab(size = 1,
+                offset = 4) +
+    geom_fruit(data = sp_phy,
+               geom = geom_text,
+               mapping = aes(y = species,
+                             label = crop_common_name,
+                             color = crop_common_name),
+               size = 1,
+               hjust = "outward",
+               offset = 0.15,
+               show.legend = F) +
+  ggtitle("Phylogeny of European CWR and their nearest crops")
+  
 ggsave(phy_plot,
        filename = "CRW_Tree_Next_Of_Keen.png",
        path = od,
@@ -200,4 +193,3 @@ ggsave(phy_plot,
        height = 40,
        units = "cm",
        dpi = 300)
-
