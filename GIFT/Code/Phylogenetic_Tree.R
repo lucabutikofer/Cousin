@@ -166,25 +166,28 @@ sp_phy <- # sort species in the same order as phylogeny
             by = "species")
 
 phy_plot <- # phylogenetic plot
-  ggtree(phy, layout = "circular") +
+  ggtree(phy, layout = "circular", colour = "grey") +
     geom_fruit(data = sp_phy,
                geom = geom_tile,
                mapping = aes(y = species,
                              fill = is_crop),
                width = 3,
                offset = 0.01) +
-    geom_tiplab(size = 1,
+    geom_tiplab(size = 1.5,
                 offset = 4) +
     geom_fruit(data = sp_phy,
                geom = geom_text,
                mapping = aes(y = species,
                              label = crop_common_name,
                              color = crop_common_name),
-               size = 1,
+               size = 1.5,
                hjust = "outward",
-               offset = 0.15,
+               offset = 0.2,
                show.legend = F) +
-  ggtitle("Phylogeny of European CWR and their nearest crops")
+  labs(title = "Phylogeny of European CWR and their nearest crops",
+       subtitle = paste("The inner text circle contains the list of CWRs and wild crop varieties,",
+                        "(these two are distiguished by the differently coloured flags).",
+                        "The outer text circle indicates the nearest crop."))
   
 ggsave(phy_plot,
        filename = "CRW_Tree_Next_Of_Keen.png",
