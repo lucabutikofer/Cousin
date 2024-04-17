@@ -1,0 +1,867 @@
+Crop wild relative	Related crop use category	Related crop common name
+Vicia villosa Roth	Fodder/forage	Hairy vetch
+Vicia villosa Roth subsp. villosa	Fodder/forage	Hairy vetch
+Vicia villosa subsp. ambigua (Guss.) Kerguélen	Fodder/forage	Hairy vetch
+Vicia villosa subsp. eriocarpa (Hausskn.) P. W. Ball	Fodder/forage	Hairy vetch
+Vicia villosa subsp. microphylla (d'Urv.) P. W. Ball	Fodder/forage	Hairy vetch
+Vicia villosa subsp. varia (Host) Corb.	Fodder/forage	Hairy vetch
+Vitis acerifolia Raf.	Beverages	Wine grape
+Vitis amurensis Rupr.	Beverages	Amur grape
+Vitis labrusca L.	Beverages	Wine grape
+Vitis riparia Michx.	Beverages	Wine grape
+Vitis rupestris Scheele	Beverages	Wine grape
+Vitis vinifera L.	Beverages	Muscadine grape
+Vitis vulpina L.	Beverages	Wine grape
+Farmer’s Pride: In situ plant genetic resources in Europe: crop wild relatives	NA	108
+European priority CWR taxa, showing the main crop use categories and related crops	NA	NA
+Vicia narbonensis var. affinis Asch. & Schweinf.	Pulses	Narbon bean
+Vicia narbonensis var. salmonea (Mouterde) H. I. Schafer	Pulses	Narbon bean
+Vicia pannonica Crantz	Fodder/forage	Hungarian vetch
+Vicia pannonica Crantz subsp. pannonica	Fodder/forage	Hungarian vetch
+Vicia pannonica subsp. striata (M. Bieb.) Nyman	Fodder/forage	Hungarian vetch
+Vicia pectinata Lowe	Fodder/forage	Common vetch
+Vicia pyrenaica Pourr.	Fodder/forage	Common vetch
+Vicia sativa L.	Fodder/forage	Common vetch
+Vicia sativa L. subsp. sativa	Fodder/forage	Common vetch
+Vicia sativa subsp. amphicarpa (Dorthes) Asch.	Fodder/forage	Common vetch
+Vicia sativa subsp. cordata (Hoppe) Batt.	Fodder/forage	Common vetch
+Vicia sativa subsp. devia J. G. Costa	Fodder/forage	Common vetch
+Vicia sativa subsp. incisa (M. Bieb.) Arcang.	Fodder/forage	Common vetch
+Vicia sativa subsp. macrocarpa (Moris) Arcang.	Fodder/forage	Common vetch
+Vicia sativa subsp. nigra (L.) Ehrh.	Fodder/forage	Common vetch
+Vicia sativa var. platysperma Barulina	Fodder/forage	Common vetch
+Vicia serratifolia Jacq.	Pulses	Faba bean
+Vicia hybrida L.	Fodder/forage	Hungarian vetch
+Vicia hyrcanica Fisch. & C. A. Mey.	Fodder/forage	Hungarian vetch
+Vicia johannis Tamamsch.	Pulses	Faba bean
+Vicia johannis Tamamsch. var. johannis	Pulses	Faba bean
+Vicia johannis var. procumbens H. I. Schafer	Pulses	Faba bean
+Vicia lathyroides L.	Pulses	Faba bean
+Vicia lutea L.	Fodder/forage	Hungarian vetch
+Vicia lutea L. subsp. lutea	Fodder/forage	Hungarian vetch
+Vicia lutea subsp. vestita (Boiss.) Rouy	Fodder/forage	Hungarian vetch
+Vicia melanops Sibth. & Sm.	Fodder/forage	Hungarian vetch
+Vicia melanops Sibth. & Sm. var. melanops	Fodder/forage	Hungarian vetch
+Vicia mollis Boiss. & Hausskn.	Fodder/forage	Hungarian vetch
+Vicia narbonensis L.	Pulses	Faba bean
+Vicia narbonensis L. var. narbonensis	Pulses	Narbon bean
+Vicia costae A. Hansen	Fodder/forage	Common vetch
+Vicia cuspidata Boiss.	Pulses	Faba bean
+Vicia eristalioides Maxted	Pulses	Narbon bean
+Vicia ervilia (L.) Willd.	Fodder/forage	Bitter vetch
+Vicia ferreirensis Goyder	Fodder/forage	Bitter vetch
+Vicia grandiflora Scop.	Fodder/forage	Common vetch
+Vicia grandiflora Scop. var. grandiflora	Fodder/forage	Common vetch
+Vicia hirsuta (L.) Gray	Fodder/forage	One-flowered vetch
+Vaccinium corymbosum L.	Fruits	Blueberry, lowbush
+Vaccinium macrocarpon Aiton	Fruits	Cranberry
+Vaccinium oxycoccos L.	Fruits	Cranberry
+Vicia anatolica Turrill	Fodder/forage	Hungarian vetch
+Vicia articulata Hornem.	Fodder/forage	Bitter vetch
+Vicia barbazitae Ten. & Guss.	Fodder/forage	Common vetch
+Vicia benghalensis L.	Fodder/forage	Purple vetch
+Vicia bithynica (L.) L.	Pulses	Faba bean
+Vicia capreolata Lowe	Fodder/forage	Bitter vetch
+Vicia ciliatula Lipsky	Fodder/forage	Hungarian vetch
+Triticum monococcum L.	Cereals	Wheat
+Triticum monococcum L. subsp. monococcum	Cereals	Einkorn wheat
+Triticum monococcum subsp. aegilopoides (Link) Thell.	Cereals	Wheat
+Triticum monococcum subsp. sinskajae (A. A. Filatenko & U. K. Kurkiev) Valdés & H. Scholz	Cereals	Wheat
+Triticum timopheevii (Zhuk.) Zhuk.	Cereals	Wheat
+Triticum timopheevii (Zhuk.) Zhuk. subsp. timopheevii	Cereals	Timopheev's wheat
+Triticum timopheevii subsp. armeniacum (Jakubz.) Mackey	Cereals	Wheat
+Triticum turgidum L.	Cereals	Wheat
+Triticum turgidum L. subsp. turgidum	Cereals	Poulard wheat
+Triticum turgidum subsp. asiaticum (Vavilov) H. Scholz	Cereals	Wheat
+Triticum turgidum subsp. carthlicum (Nevski) Á. Löve & D. Löve	Cereals	Persian wheat
+Triticum turgidum subsp. dicoccoides (Asch. & Graebn.) Thell.	Cereals	Wheat
+Triticum turgidum subsp. dicoccon (Schrank) Thell.	Cereals	Emmer wheat
+Triticum turgidum subsp. durum (Desf.) Husn.	Cereals	Durum wheat
+Triticum turgidum subsp. polonicum (L.) Thell.	Cereals	Polish wheat
+Triticum turgidum subsp. subspontaneum (Tzvelev) Valdés & H. Scholz	Cereals	Wheat
+Triticum turgidum subsp. volgense (Flaksb.) Á Löve & D. Löve	Cereals	Wheat
+Trifolium repens var. orphanideum (Boiss.) Boiss.	Fodder/forage	White clover
+Trifolium resupinatum L.	Fodder/forage	Persian clover
+Trifolium resupinatum L. var. resupinatum	Fodder/forage	Persian clover
+Trifolium resupinatum var. majus Boiss.	Fodder/forage	Persian clover
+Trifolium squarrosum L.	Fodder/forage	Squarrose clover
+Trifolium subterraneum L.	Fodder/forage	Subterranean clover
+Trifolium subterraneum subsp. oxaloides Nyman	Fodder/forage	Subterranean clover
+Trifolium subterraneum subsp. yanninicum Katzn. & F. H. W. Morley	Fodder/forage	Subterranean clover
+Trifolium vesiculosum Savi	Fodder/forage	Arrowleaf clover
+Trigonella foenum-graecum L.	Fodder/forage	Fenugreek
+Trisetum flavescens (L.) P. Beauv.	Fodder/forage	Golden oatgrass
+Trisetum flavescens (L.) P. Beauv. subsp. flavescens	Fodder/forage	Golden oatgrass
+Trisetum flavescens subsp. baregense (Laffitte & Miégev.) O. Bolòs & al.	Fodder/forage	Golden oatgrass
+Trisetum flavescens subsp. corsicum (Rouy) Cif. & Giacom.	Fodder/forage	Golden oatgrass
+Trisetum flavescens subsp. purpurascens (DC.) Arcang.	Fodder/forage	Golden oatgrass
+Trisetum flavescens subsp. serbicum (Velen.) Hayek	Fodder/forage	Golden oatgrass
+Trisetum flavescens subsp. splendens (C. Presl) Arcang.	Fodder/forage	Golden oatgrass
+Trisetum flavescens subsp. tenue (Formánek) Strid	Fodder/forage	Golden oatgrass
+Trifolium isthmocarpum subsp. jaminianum (Boiss.) Murb.	Fodder/forage	Moroccan clover
+Trifolium michelianum Savi	Fodder/forage	Balansa clover
+Trifolium michelianum Savi var. michelianum	Fodder/forage	Balansa clover
+Trifolium michelianum var. balansae (Boiss.) Azn.	Fodder/forage	Balansa clover
+Trifolium pratense L.	Fodder/forage	Red clover
+Trifolium pratense L. var. pratense	Fodder/forage	Red clover
+Trifolium pratense var. americanum Harz	Fodder/forage	Red clover
+Trifolium pratense var. frigidum Gaudin	Fodder/forage	Red clover
+Trifolium pratense var. maritimum Zabel	Fodder/forage	Red clover
+Trifolium pratense var. sativum Schreb.	Fodder/forage	Red clover
+Trifolium repens L.	Fodder/forage	White clover
+Trifolium repens L. var. repens	Fodder/forage	White clover
+Trifolium repens subsp. prostratum Nyman	Fodder/forage	White clover
+Trifolium repens var. biasolettii (Steud. & Hochst.) Asch. & Graebn.	Fodder/forage	White clover
+Trifolium repens var. macrorrhizum Boiss.	Fodder/forage	White clover
+Trifolium repens var. nevadense (Boiss.) C. Vicioso	Fodder/forage	White clover
+Trifolium repens var. ochranthum K. Malý	Fodder/forage	White clover
+Trifolium repens var. orbelicum (Velen.) R. M. Fritsch	Fodder/forage	White clover
+Trifolium alpestre var. durmitoreum Rohlena	Fodder/forage	Owlhead clover
+Trifolium ambiguum M. Bieb.	Fodder/forage	Caucasian clover
+Trifolium angustifolium L.	Fodder/forage	Narrow clover
+Trifolium argutum Banks & Sol.	Fodder/forage	Clover (berseem, red,
+subterranean, white)
+Trifolium arvense L.	Fodder/forage	Harefoot clover
+Trifolium fragiferum L.	Fodder/forage	Strawberry clover
+Trifolium fragiferum L. subsp. fragiferum	Fodder/forage	Strawberry clover
+Trifolium fragiferum subsp. bonannii (C. Presl) Soják	Fodder/forage	Strawberry clover
+Trifolium hirtum All.	Fodder/forage	Rose clover
+Trifolium hybridum L.	Fodder/forage	Alsike clover
+Trifolium hybridum L. subsp. hybridum	Fodder/forage	Alsike clover
+Trifolium hybridum subsp. anatolicum (Boiss.) M. Hossain	Fodder/forage	Alsike clover
+Trifolium hybridum subsp. elegans (Savi) Asch. & Graebn.	Fodder/forage	Alsike clover
+Trifolium incarnatum L.	Fodder/forage	Crimson clover
+Trifolium incarnatum L. subsp. incarnatum	Fodder/forage	Crimson clover
+Trifolium incarnatum subsp. molinerii (Hornem.) Syme	Fodder/forage	Crimson clover
+Trifolium isthmocarpum Brot.	Fodder/forage	Moroccan clover
+Trifolium isthmocarpum Brot. subsp. isthmocarpum	Fodder/forage	Moroccan clover
+Sinapis arvensis var. orientalis (L.) W. D. J. Koch & Ziz	Oils/fodder	Rape
+Sinapis flexuosa Poir.	Spices	White mustard
+Solanum lidii Sunding	Fruits (savoury)	Eggplant
+Solanum linnaeanum Hepper & P.-M. L. Jaeger	Fruits (savoury)	Eggplant
+Solanum marginatum L. f.	Fruits (savoury)	Eggplant
+Solanum sisymbrifolium Lam.	Fruits (savoury)	Eggplant
+Solanum torvum Sw.	Fruits (savoury)	Eggplant
+Sorghum bicolor (L.) Moench	Cereals	Sorghum
+Sorghum halepense (L.) Pers.	Cereals	Sorghum
+Trifolium alexandrinum L.	Fodder/forage	Berseem/Egyptian clover
+Trifolium alpestre L.	Fodder/forage	Owlhead clover
+Trifolium alpestre L. var. alpestre	Fodder/forage	Owlhead clover
+Sinapis alba subsp. mairei (H. Lindb.) Maire	Vegetables (green)	Ethiopian cabbage
+Sinapis arvensis L.	Oils/fodder	Rape
+Sinapis arvensis L. subsp. arvensis	Oils/fodder	Rape
+Sinapis alba L. subsp. alba	Spices	White mustard
+Sinapis alba subsp. dissecta (Lag.) Simonk.	Oils/fodder	Rape
+Setaria italica subsp. moharia (Alef.) R. A. W. Herrm.	Cereals	Foxtail millet
+Setaria italica subsp. pycnocoma (Steud.) De Wet	Cereals	Foxtail millet
+Sinapidendron angustifolium (DC.) Lowe	Vegetables (green)	Brassicas
+Sinapidendron frutescens (Sol.) Lowe var. frutescens	Vegetables (green)	Brassicas
+Sinapidendron frutescens Lowe	Vegetables (green)	Brassicas
+Sinapidendron frutescens subsp. succulentum (Lowe) Rustan	Vegetables (green)	Brassicas
+Sinapidendron gymnocalyx (Lowe) Rustan	Vegetables (green)	Brassicas
+Sinapidendron rupestre Lowe	Vegetables (green)	Brassicas
+Sinapidendron sempervivifolium Menezes	Vegetables (green)	Brassicas
+Sinapis alba L.	Oils/fodder	Rape
+Schedonorus arundinaceus subsp. orientalis (Hack.) H. Scholz & Valdés	Fodder/forage	Tall fescue
+Schedonorus giganteus (L.) Holub	Fodder/forage	Giant fescue
+Schedonorus pratensis (Huds.) P. Beauv.	Fodder/forage	Meadow fescue
+Schedonorus pratensis (Huds.) P. Beauv. subsp. pratensis	Fodder/forage	Meadow fescue
+Schedonorus pratensis subsp. apenninus (De Not.) H. Scholz & Valdés	Fodder/forage	Meadow fescue
+Secale cereale L.	Cereals	Wheat
+Secale cereale L. subsp. cereale	Cereals	Rye
+Secale cereale subsp. ancestrale Zhuk.	Cereals	Rye
+Secale strictum (C. Presl) C. Presl	Cereals	Rye
+Secale strictum (C. Presl) C. Presl subsp. strictum	Cereals	Rye
+Secale strictum subsp. anatolicum (Boiss.) Hammer	Cereals	Rye
+Secale strictum subsp. balcanum (Ganchev) Valdés & H. Scholz	Cereals	Rye
+Secale strictum subsp. ciliatoglume (Boiss.) Hammer	Cereals	Rye
+Secale sylvestre Host	Cereals	Rye
+Secale vavilovii Grossh.	Cereals	Rye
+Securigera varia (L.) Lassen	Fodder/forage	Crownvetch
+Setaria italica (L.) P. Beauv.	Cereals	Foxtail millet
+Setaria italica (L.) P. Beauv. subsp. italica	Cereals	Foxtail millet
+Rubus idaeus L. subsp. idaeus	Fruits	Raspberry
+Rubus idaeus subsp. melanolasius Focke	Fruits	Raspberry
+Rubus illecebrosus Focke	Fruits	Raspberry
+Rubus occidentalis L.	Fruits	Raspberry
+Rubus odoratus L.	Fruits	Raspberry
+Rubus phoenicolasius Maxim.	Fruits	Raspberry
+Rubus saxatilis L.	Fruits	Raspberry
+Rubus spectabilis Pursh	Fruits	Raspberry
+Saccharum spontaneum L.	Sugar	Sugarcane
+Saccharum spontaneum subsp. aegyptiacum (Willd.) Hack.	Sugar	Sugarcane
+Salsola vermiculata L.	Fodder/forage	Mediterranean saltwort
+Schedonorus arundinaceus (Schreb.) Dumont subsp. arundinaceus	Fodder/forage	Tall fescue
+Schedonorus arundinaceus (Schreb.) Dumort.	Fodder/forage	Tall fescue
+Schedonorus arundinaceus subsp. atlantigenus (St.-Yves) H. Scholz	Fodder/forage	Tall fescue
+Schedonorus arundinaceus subsp. cirtensis (St.-Yves) H. Scholz & Valdés	Fodder/forage	Tall fescue
+Schedonorus arundinaceus subsp. corsicus (Hack.) Foggi & Signorini	Fodder/forage	Tall fescue
+Schedonorus arundinaceus subsp. fenas (Lag.) H. Scholz	Fodder/forage	Tall fescue
+Schedonorus arundinaceus subsp. mediterraneus (Hack.) H. Scholz & Valdés	Fodder/forage	Tall fescue
+Ribes multiflorum subsp. sandalioticum Arrigoni	Fruits	Redcurrant
+Ribes nigrum L.	Fruits	Blackcurrant
+Ribes petraeum Wulfen	Fruits	Blackcurrant
+Ribes rubrum L.	Fruits	Blackcurrant
+Ribes sanguineum Pursh	Fruits	Blackcurrant
+Ribes spicatum E. Robson	Fruits	Redcurrant
+Ribes spicatum E. Robson subsp. spicatum	Fruits	Redcurrant
+Ribes spicatum subsp. hispidulum (Jancz.) Hämet-Ahti	Fruits	Redcurrant
+Ribes spicatum subsp. lapponicum Hyl.	Fruits	Redcurrant
+Ribes uva-crispa L.	Fruits	Blackcurrant
+Rorippa prolifera (Heuff.) Neilr.	Vegetables (salad)	Variableleaf yellowcress
+Rorippa valdes-bermejoi (Castrov.) Mart.-Laborde & Castrov.	Vegetables (salad)	Variableleaf yellowcress
+Rubus cockburnianus Hemsl.	Fruits	Raspberry
+Rubus idaeus L.	Fruits	Raspberry
+Pyrus spinosa Forssk.	Fruits	Ussurian pear
+Pyrus syriaca Boiss.	Fruits	Pear
+Raphanus raphanistrum L.	Oils/fodder	Rape
+Raphanus raphanistrum L. subsp. raphanistrum	Vegetables (salad)	Radish
+Raphanus raphanistrum subsp. landra (Moretti ex DC.) Bonnier & Layens	Vegetables (salad)	Radish
+Raphanus raphanistrum subsp. rostratus (DC.) Thell.	Vegetables (salad)	Radish
+Raphanus sativus L.	Fodder/forage	Fodder radish
+Ribes aureum Pursh	Fruits	Blackcurrant
+Ribes divaricatum Douglas	Fruits	Blackcurrant
+Ribes multiflorum Roem. & Schult.	Fruits	Blackcurrant
+Ribes multiflorum Roem. & Schult. subsp. multiflorum	Fruits	Redcurrant
+Pyrus communis L. subsp. communis	Fruits	Pear
+Pyrus communis subsp. caucasica (Fed.) Browicz	Fruits	Pear
+Pyrus communis subsp. pyraster (L.) Ehrh.	Fruits	Pear
+Pyrus cordata Desv.	Fruits	Pear
+Pyrus elaeagrifolia Pall.	Fruits	Asian pear/Nashi pear
+Pyrus elaeagrifolia Pall. subsp. elaeagrifolia	Fruits	Pear
+Pyrus elaeagrifolia subsp. bulgarica (Kuth. & Sachok.) Valev	Fruits	Pear
+Pyrus elaeagrifolia subsp. kotschyana (Decne.) Browicz	Fruits	Pear
+Pyrus magyarica Terpó	Fruits	Asian pear/Nashi pear
+Pyrus nivalis Jacq.	Fruits	Pear
+Pyrus salicifolia Pall.	Fruits	Pear
+Prunus spinosa L. subsp. spinosa	Fruits	Apricot
+Prunus spinosa subsp. dasyphylla (Schur) Domin	Fruits	Apricot
+Prunus tomentosa Thunb.	Fruits	Japanese plum
+Prunus trichamygdalus Hand.-Mazz.	Nuts	Almond
+Prunus webbii (Spach) Vierh.	Fruits	Peach
+Pyrus bourgaeana Decne.	Fruits	Pear
+Pyrus communis L.	Fruits	Pear
+Prunus lusitanica subsp. hixa (Willd.) Franco	Fruits	Stonefruits
+Prunus lycioides (Spach) C. K. Schneid.	Fruits	Peach
+Prunus mahaleb L.	Fruits	Sour cherry
+Prunus microcarpa C. A. Mey.	Fruits	Japanese plum
+Prunus padus L.	Fruits	Sour cherry
+Prunus padus L. subsp. padus	Fruits	Sweet cherry
+Prunus padus subsp. borealis (A. Blytt) Nyman	Fruits	Sweet cherry
+Prunus persica (L.) Batsch	Fruits	Peach
+Prunus prostrata Labill.	Fruits	Myrobalan plum
+Prunus ramburii Boiss.	Fruits	Japanese plum
+Prunus spinosa L.	Fruits	Apricot
+Prunus cerasifera Ehrh.	Fruits	Apricot
+Prunus discolor (Spach) C. K. Schneid.	Nuts	Almond
+Prunus dulcis (Mill.) D. A. Webb	Fruits	Peach
+Prunus fenzliana R. M. Fritsch	Fruits	Peach
+Prunus fruticosa Pall.	Fruits	Sour cherry
+Prunus incana (Pall.) Steven	Fruits	Peach
+Prunus kotschyi (Spach) Náb.	Nuts	Almond
+Prunus lusitanica L.	Fruits	Stonefruits
+Prunus lusitanica L. subsp. lusitanica	Fruits	Stonefruits
+Prunus lusitanica subsp. azorica (Mouill.) Franco	Fruits	Stonefruits
+Poa trivialis L. subsp. trivialis	Fodder/forage	Rough-stalked meadowgrass
+Poa trivialis subsp. latifolia (Schur) Portal	Fodder/forage	Rough-stalked meadowgrass
+Poa trivialis subsp. semineutra (Willd.) Portal	Fodder/forage	Rough-stalked meadowgrass
+Poa trivialis subsp. sylvicola (Guss.) H. Lindb.	Fodder/forage	Rough-stalked meadowgrass
+Prunus arabica (Olivier) Meikle	Nuts	Almond
+Prunus argentea (Lam.) Rehder	Fruits	Peach
+Prunus armeniaca L.	Fruits	Apricot
+Prunus avium (L.) L.	Fruits	Sour cherry
+Prunus brigantina Vill.	Fruits	Apricot
+Prunus carduchorum (Bornm.) Meikle	Nuts	Almond
+Pisum sativum L. subsp. sativum	Pulses	Garden pea
+Pisum sativum subsp. elatius (M. Bieb.) Asch. & Graebn.	Pulses	Garden pea
+Plantago lanceolata L.	Fodder/forage	Ribwort plantain
+Poa alpina L.	Fodder/forage	Alpine bluegrass
+Poa alpina L. subsp. Alpina	Fodder/forage	Alpine bluegrass
+Poa alpina subsp. brevifolia Gaudin	Fodder/forage	Alpine bluegrass
+Poa palustris L.	Fodder/forage	Swamp meadowgrass
+Poa palustris L. subsp. palustris	Fodder/forage	Swamp meadowgrass
+Poa palustris subsp. volhynensis (Klokov) Tzvelev	Fodder/forage	Swamp meadowgrass
+Poa pratensis L.	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis L. subsp. pratensis	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis subsp. colpodea (Th. Fr.) Tzvelev	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis subsp. dolichophylla (Hack.) Portal	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis subsp. irrigata (Lindm.) H. Lindb.	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis subsp. jordanii Portal	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis subsp. rigens (Hartm.) Tzvelev	Fodder/forage	Smooth-stalked meadowgrass
+Poa pratensis subsp. turfosa (Litv.) Vorosch.	Fodder/forage	Smooth-stalked meadowgrass
+Poa trivialis L.	Fodder/forage	Rough-stalked meadowgrass
+Phalaroides arundinacea subsp. rotgesii (Husn.) Valdés & H. Scholz	Fodder/forage	Reed canary grass
+Phleum nodosum L.	Fodder/forage	Small timothy
+Phleum pratense L.	Fodder/forage	Timothy
+Phleum pratense L. subsp. pratense	Fodder/forage	Timothy
+Phleum pratense subsp. brachystachyum (Salis) Gamisans	Fodder/forage	Timothy
+Phoenix canariensis Chabaud	Fruits/oils	Date
+Phoenix dactylifera L.	Fruits/oils	Date
+Phoenix theophrasti Greuter	Fruits/oils	Date
+Pistacia atlantica Desf.	Nuts	Pistachio
+Pistacia atlantica subsp. cypricola H. Lindb.	Nuts	Pistachio
+Pistacia atlantica subsp. mutica (Fisch. & C. A. Mey.) Rech. f.	Nuts	Pistachio
+Pistacia eurycarpa Yalt.	Nuts	Pistachio
+Pistacia khinjuk Stocks	Nuts	Pistachio
+Pistacia lentiscus L.	Nuts	Pistachio
+Pistacia terebinthus L.	Nuts	Pistachio
+Pistacia terebinthus L. subsp. terebinthus	Nuts	Pistachio
+Pistacia terebinthus subsp. palaestina (Boiss.) Engl.	Nuts	Pistachio
+Pisum fulvum Sm.	Pulses	Garden pea
+Olea europaea L. subsp. europaea	Fruits/oils	Olive
+Olea europaea subsp. cerasiformis G. Kunkel & Sunding	Fruits/oils	Olive
+Olea europaea subsp. guanchica P. Vargas & al.	Fruits/oils	Olive
+Onobrychis viciifolia Scop.	Fodder/forage	Sainfoin
+Ornithopus compressus L.	Fodder/forage	Yellow serradella
+Ornithopus sativus Brot.	Fodder/forage	Serradella
+Ornithopus sativus subsp. isthmocarpus (Coss.) Dostál	Fodder/forage	Serradella
+Oryza rufipogon Griff.	Cereals	Rice
+Panicum miliaceum L. subsp. miliaceum	Cereals	Proso millet
+Panicum miliaceum subsp. agricolum H. Scholz & Mikoláš	Cereals	Proso millet
+Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev	Cereals	Proso millet
+Papaver somniferum L.	Oils/spices	Poppy seed
+Patellifolia procumbens (C. Sm.) A. J. Scott & al.	Sugar/fodder/vegetables (green)	Sugarbeet
+Phalaris aquatica L.	Fodder/forage	Harding grass
+Phalaris canariensis L.	Fodder/forage	Canary grass
+Phalaroides arundinacea (L.) Rauschert	Fodder/forage	Reed canary grass
+Phalaroides arundinacea (L.) Rauschert subsp. arundinacea	Fodder/forage	Reed canary grass
+Phalaroides arundinacea subsp. oehleri (Pilg.) Valdés & H. Scholz	Fodder/forage	Reed canary grass
+Medicago turbinata (L.) All.	Fodder/forage	Barrel medic
+Melilotus albus Medik.	Fodder/forage	Honey clover
+Melilotus officinalis (L.) Lam.	Fodder/forage	Yellow sweet clover
+Mentha suaveolens Ehrh.	Herbs	Peppermint
+Mentha suaveolens Ehrh. subsp. suaveolens	Herbs	Peppermint
+Mentha suaveolens subsp. insularis (Req. ex Gren. & Godr.) Greuter	Herbs	Peppermint
+Moricandia arvensis (L.) DC.	Oils/fodder	Rape
+Myrtus communis L.	Fruits	Myrtle berry
+Myrtus communis L. subsp. communis	Fruits	Myrtle berry
+Myrtus communis subsp. tarentina (L.) Nyman	Fruits	Myrtle berry
+Ochlopoa annua (L.) H. Scholz	Fodder/forage	Annual meadowgrass
+Ochlopoa annua (L.) H. Scholz subsp. annua	Fodder/forage	Annual meadowgrass
+Ochlopoa annua subsp. notabilis (Chrtek & V. Jirásek) H. Scholz & Valdés	Fodder/forage	Annual meadowgrass
+Ochlopoa annua subsp. pilantha (Ronniger) H. Scholz & Valdés	Fodder/forage	Annual meadowgrass
+Ochlopoa annua subsp. raniglumis (E. Fröhner) H. Scholz & Valdés	Fodder/forage	Annual meadowgrass
+Medicago rigidula (L.) All.	Fodder/forage	Field medic
+Medicago rugosa Desr.	Fodder/forage	Alfalfa
+Medicago rupestris M. Bieb.	Fodder/forage	Alfalfa
+Medicago sativa L.	Fodder/forage	Lucerne
+Medicago sativa L. subsp. sativa	Fodder/forage	Alfalfa
+Medicago sativa nothosubsp. varia (Martyn) Arcang.	Fodder/forage	Alfalfa
+Medicago sativa subsp. microcarpa Urb.	Fodder/forage	Alfalfa
+Medicago scutellata (L.) Mill.	Fodder/forage	Barrel medic
+Medicago soleirolii Duby	Fodder/forage	Alfalfa
+Medicago strasseri Greuter & al.	Fodder/forage	Alfalfa
+Medicago tornata subsp. helix (Willd.) Ooststr. & Reichg.	Fodder/forage	Barrel medic
+Medicago truncatula Gaertn.	Fodder/forage	Barrel clover
+Medicago fischeriana (Ser.) Trautv.	Fodder/forage	Barrel medic
+Medicago glomerata Balb.	Fodder/forage	Alfalfa
+Medicago heyniana Greuter	Fodder/forage	Alfalfa
+Medicago hypogaea E. Small	Fodder/forage	Alfalfa
+Medicago littoralis Loisel.	Fodder/forage	Barrel medic
+Medicago lupulina L.	Fodder/forage	Trefoil
+Medicago lupulina var. cupaniana (Guss.) Boiss.	Fodder/forage	Trefoil
+Medicago marina L.	Fodder/forage	Alfalfa
+Medicago murex Willd.	Fodder/forage	Alfalfa
+Medicago papillosa Boiss.	Fodder/forage	Alfalfa
+Medicago pironae Vis.	Fodder/forage	Alfalfa
+Medicago polymorpha L.	Fodder/forage	Bur medic
+Medicago prostrata Jacq.	Fodder/forage	Alfalfa
+Lupinus pilosus L.	Fodder/forage	Sandplain lupin
+Malus crescimannoi Raimondo	Fruits	Apple
+Malus pumila Mill.	Fruits	Apple
+Malus sylvestris (L.) Mill.	Fruits	Apple
+Malus sylvestris (L.) Mill. subsp. sylvestris	Fruits	Apple
+Malus sylvestris subsp. orientalis (Uglitzk.) Browicz	Fruits	Apple
+Malus sylvestris subsp. praecox (Pall.) Soó	Fruits	Apple
+Medicago arborea L.	Fodder/forage	Alfalfa
+Medicago cancellata M. Bieb.	Fodder/forage	Alfalfa
+Medicago constricta Durieu	Fodder/forage	Barrel medic
+Medicago cretacea M. Bieb.	Fodder/forage	Alfalfa
+Medicago doliata Carmign.	Fodder/forage	Barrel medic
+Medicago falcata L.	Fodder/forage	Alfalfa
+Lupinus albus L. subsp. albus	Fodder/forage	Andean lupin
+Lupinus albus subsp. graecus (Boiss. & Spruner) Franco & P. Silva	Fodder/forage	Andean lupin
+Lupinus angustifolius L.	Fodder/forage	Blue lupin
+Lupinus angustifolius L. subsp. angustifolius	Fodder/forage	Blue lupin
+Lupinus angustifolius subsp. reticulatus (Desv.) Arcang.	Fodder/forage	Blue lupin
+Lupinus cosentinii Guss.	Fodder/forage	Sandplain lupin
+Lupinus hispanicus Boiss. & Reut.	Fodder/forage	Blue lupin
+Lupinus hispanicus var. bicolor (Merino) Gladst.	Fodder/forage	Blue lupin
+Lupinus luteus L.	Fodder/forage	Blue lupin
+Lupinus micranthus Guss.	Fodder/forage	White lupin
+Linum hirsutum subsp. platyphyllum (P. H. Davis) Yılmaz & Kaynak	Seeds/oils	Linseed
+Linum hirsutum subsp. pseudoanatolicum P. H. Davis	Seeds/oils	Linseed
+Linum hirsutum subsp. spathulatum (Halácsy & Bald.) Hayek	Seeds/oils	Linseed
+Linum nervosum subsp. jailicola (Juz.) T. V. Egorova	Seeds/oils	Linseed
+Linum nervosum Waldst. & Kit.	Seeds/oils	Linseed
+Lolium multiflorum Lam.	Fodder/forage	Italian ryegrass
+Lolium perenne L.	Fodder/forage	Perennial ryegrass
+Lolium perenne L. subsp. perenne	Fodder/forage	Perennial ryegrass
+Lolium rigidum Gaudin	Fodder/forage	Annual ryegrass
+Lolium rigidum Gaudin subsp. rigidum	Fodder/forage	Annual ryegrass
+Lolium rigidum subsp. lepturoides Sennen & Mauricio	Fodder/forage	Annual ryegrass
+Lolium temulentum L.	Fodder/forage	Bearded ryegrass
+Lotus corniculatus L.	Fodder/forage	Birdsfoot trefoil
+Lotus corniculatus subsp. frondosus Freyn	Fodder/forage	Birdsfoot trefoil
+Lotus pedunculatus Cav.	Fodder/forage	Greater birdsfoot trefoil
+Lotus subbiflorus Lag.	Fodder/forage	Hairy birdsfoot trefoil
+Lupinus albus L.	Fodder/forage	Andean lupin
+Lepidium sativum L. subsp. sativum	Vegetables (salad)	Garden cress
+Leymus angustus (Trin.) Pilg.	Cereals	Wheat
+Leymus arenarius (L.) Hochst.	Cereals	Wheat
+Leymus mollis (Trin.) H. Hara	Cereals	Wheat
+Leymus racemosus (Lam.) Tzvelev	Cereals	Wheat
+Leymus racemosus (Lam.) Tzvelev subsp. racemosus	Cereals	Wheat
+Leymus racemosus subsp. klokovii Tzvelev	Cereals	Wheat
+Leymus racemosus subsp. sabulosus (M. Bieb.) Tzvelev	Cereals	Wheat
+Linum bienne Mill.	Seeds/oils	Linseed
+Linum corymbiferum Desf.	Seeds/oils	Linseed
+Linum decumbens Desf.	Seeds/oils	Linseed
+Linum hirsutum L.	Seeds/oils	Linseed
+Linum hirsutum L. subsp. hirsutum	Seeds/oils	Linseed
+Linum hirsutum subsp. anatolicum (Boiss.) Hayek	Seeds/oils	Linseed
+Linum hirsutum subsp. bozdaghense Yılmaz & Kaynak	Seeds/oils	Linseed
+Linum hirsutum subsp. byzantinum Azn.	Seeds/oils	Linseed
+Linum hirsutum subsp. glabrescens (Rochel) Soó	Seeds/oils	Linseed
+Linum hirsutum subsp. oreocaricum P. H. Davis	Seeds/oils	Linseed
+Lathyrus odoratus L.	Fodder/forage	Sweet pea
+Lathyrus rotundifolius Willd.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus sativus L.	Fodder/forage	Grass pea/common chickling
+Lathyrus stenophyllus Boiss. & Heldr.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus sylvestris L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus tingitanus L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus tuberosus L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus undulatus Boiss.	Fodder/forage	Chickling vetch/flat pod peavine
+Lens culinaris Medik.	Pulses	Lentil
+Lens culinaris Medik. subsp. culinaris	Pulses	Lentil
+Lens culinaris subsp. odemensis (Ladiz.) M. E. Ferguson & al.	Pulses	Lentil
+Lens culinaris subsp. orientalis (Boiss.) Ponert	Pulses	Lentil
+Lens ervoides (Brign.) Grande	Pulses	Lentil
+Lens lamottei Czefr.	Pulses	Lentil
+Lens nigricans (M. Bieb.) Godr.	Pulses	Lentil
+Lepidium meyeri subsp. turczaninowii (Lipsky) Schmalh.	Vegetables (salad)	Garden cress
+Lepidium sativum L.	Vegetables (salad)	Garden cress
+Lathyrus cicera L.	Fodder/forage	Grass pea/common chickling
+Lathyrus cirrhosus Ser.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus clymenum L.	Fodder/forage	Cyprus vetch/ochrus chickling
+Lathyrus gorgoni Parl.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus grandiflorus Sibth. & Sm.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus heterophyllus L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus hierosolymitanus Boiss.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus hirsutus L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus latifolius L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus latifolius L. var. latifolius	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus ochrus (L.) DC.	Fodder/forage	Cyprus vetch/ochrus chickling
+Lactuca saligna L.	Vegetables (salad)	Lettuce
+Lactuca scarioloides Boiss.	Vegetables (salad)	Lettuce
+Lactuca serriola L.	Vegetables (salad)	Lettuce
+Lactuca singularis Wilmott	Vegetables (salad)	Lettuce
+Lactuca tetrantha B. L. Burtt & P. H. Davis	Vegetables (salad)	Lettuce
+Lactuca virosa L.	Vegetables (salad)	Lettuce
+Lactuca virosa subsp. livida (Boiss. & Reut.) Ladero & A. Velasco	Vegetables (salad)	Lettuce
+Lactuca watsoniana Trel.	Vegetables (salad)	Lettuce
+Lathyrus amphicarpos L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus annuus L.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus blepharicarpus Boiss.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus cassius Boiss.	Fodder/forage	Chickling vetch/flat pod peavine
+Lathyrus chloranthus Boiss.	Fodder/forage	Chickling vetch/flat pod peavine
+Humulus lupulus L.	Beverages	Hop
+Juglans ailantifolia Carrière	Nuts	Black walnut
+Juglans cinerea L.	Nuts	Japanese walnut
+Juglans mandshurica Maxim.	Fruits (savoury)	Butternut
+Juglans nigra L.	Nuts	Black walnut
+Juglans regia L.	Nuts	Black walnut
+Lactuca aculeata Boiss. & Kotschy	Vegetables (salad)	Lettuce
+Lactuca alpestris (Gand.) Rech. f.	Vegetables (salad)	Lettuce
+Lactuca cyprica (Rech. f.) N. Kilian & Greuter	Vegetables (salad)	Lettuce
+Lactuca georgica Grossh.	Vegetables (salad)	Lettuce
+Helianthus petiolaris Nutt.	Seeds/oils	Sunflower seed
+Helianthus strumosus L.	Seeds/oils	Sunflower seed
+Hordeum brevisubulatum (Trin.) Link	Cereals	Barley
+Hordeum brevisubulatum (Trin.) Link subsp. brevisubulatum	Cereals	Barley
+Hordeum brevisubulatum subsp. nevskianum (Bowden) Tzvelev	Cereals	Barley
+Hordeum brevisubulatum subsp. turkestanicum (Nevski) Tzvelev	Cereals	Barley
+Hordeum brevisubulatum subsp. violaceum (Boiss. & Hohen.) Tzvelev	Cereals	Barley
+Hordeum bulbosum L.	Cereals	Barley
+Hordeum bulbosum L. subsp. bulbosum	Cereals	Barley
+Hordeum bulbosum subsp. nodosum (L.) B. R. Baum	Cereals	Barley
+Hordeum jubatum L.	Cereals	Barley
+Hordeum marinum Huds.	Cereals	Wheat
+Hordeum vulgare L.	Cereals	Barley
+Hordeum vulgare L. subsp. vulgare	Cereals	Barley
+Hordeum vulgare subsp. aegiceras (Nees ex Royle) Á. Löve	Cereals	Barley
+Hordeum vulgare subsp. agriocrithon (Åberg) Á. Löve & D. Löve	Cereals	Barley
+Hordeum vulgare subsp. distichon (L.) Körn.	Cereals	Barley
+Hordeum vulgare subsp. spontaneum (K. Koch) Thell.	Cereals	Barley
+Festuca rubra subsp. scotica Al-Bermani	Fodder/forage	Red fescue
+Festuca rubra subsp. thessalica Markgr.-Dann.	Fodder/forage	Red fescue
+Ficus carica L.	Fruits	Fig
+Ficus carica subsp. rupestris (Boiss.) Browicz	Fruits	Fig
+Fragaria chiloensis (L.) Weston	Fruits	Strawberry
+Fragaria moschata Weston	Fruits	Strawberry
+Fragaria vesca L.	Fruits	Strawberry
+Fragaria virginiana Mill.	Fruits	Strawberry
+Fragaria viridis subsp. campestris (Steven) Pawł.	Fruits	Strawberry
+Fragaria viridis Weston	Fruits	Strawberry
+Fragaria viridis Weston subsp. viridis	Fruits	Strawberry
+Galega orientalis Lam.	Fodder/forage	Fodder galega
+Hedysarum coronarium L.	Fodder/forage	Sulla
+Helianthus annuus L.	Seeds/oils	Sunflower seed
+Helianthus debilis Nutt.	Seeds/oils	Sunflower seed
+Helianthus decapetalus L.	Seeds/oils	Sunflower seed
+Helianthus giganteus L.	Seeds/oils	Sunflower seed
+Helianthus pauciflorus Nutt.	Seeds/oils	Sunflower seed
+Erucastrum gallicum (Willd.) O. E. Schulz	Spices/oils/vegetables (green)	Mustard
+Festuca heterophylla Lam.	Fodder/forage	Shade fescue
+Festuca ovina L.	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina L. subsp. ovina	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. firmulacea (Markgr.-Dann.) Prob.	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. guestfalica (Rchb.) K. Richt.	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. hirtula (Travis) M. J. Wilk.	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. molinieri (Litard.) Foggi & J. Müll.	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. ophioliticola (Kerguélen) M. Wilk.	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. ruprechtii (Boiss.) Tzvelev	Fodder/forage	Fine leaved sheep’s fescue
+Festuca ovina subsp. supina (Schur) Oborný	Fodder/forage	Fine leaved sheep’s fescue
+Festuca rubra L.	Fodder/forage	Red fescue
+Festuca rubra L. subsp. rubra	Fodder/forage	Red fescue
+Festuca rubra subsp. juncea (Hack.) K. Richt.	Fodder/forage	Red fescue
+Festuca rubra subsp. litoralis (G. Mey.) Auquier	Fodder/forage	Red fescue
+Festuca rubra subsp. pruinosa (Hack.) Piper	Fodder/forage	Red fescue
+Elytrigia intermedia subsp. pouzolzii (Godr.) Á. Löve	Cereals	Intermediate wheatgrass
+Elytrigia intermedia subsp. pulcherrima (Grossh.) Tzvelev	Cereals	Intermediate wheatgrass
+Elytrigia intermedia subsp. trichophora (Link) Á. Löve & D. Löve	Cereals	Intermediate wheatgrass
+Elytrigia intermedia subsp. varnensis (Velen.) Valdés & H. Scholz	Cereals	Intermediate wheatgrass
+Elytrigia juncea (L.) Nevski	Cereals	Wheat
+Elytrigia juncea subsp. boreoatlantica (Simonet & Guin.) Hyl.	Cereals	Wheat
+Elytrigia obtusiflora (DC.) Tzvelev	Cereals	Wheat
+Elytrigia scirpea (C. Presl) Holub	Cereals	Wheat
+Eragrostis pilosa (L.) P. Beauv.	Cereals	Teff
+Eragrostis tef (Zuccagni) Trotter	Cereals	Teff
+Eruca vesicaria (L.) Cav.	Oils/fodder	Rape
+Erucastrum canariense Webb & Berthel.	Vegetables (root)/fodder	Turnip
+Eleusine tristachya (Lam.) Lam.	Cereals	Finger millet
+Elymus dahuricus Turcz. ex Griseb.	Cereals	Wheat
+Elymus trachycaulus (Link) Shinners	Cereals	Wheat
+Elymus trachycaulus (Link) Shinners subsp. trachycaulus	Cereals	Wheat
+Elymus trachycaulus subsp. novae-angliae (Scribn.) Tzvelev	Cereals	Wheat
+Elymus trachycaulus subsp. stefanssonii (Melderis) Á. Löve & D. Löve	Cereals	Wheat
+Elytrigia bessarabica (Săvul. & Rayss) Prokudin	Cereals	Wheat
+Elytrigia curvifolia (Lange) Holub	Cereals	Wheat
+Elytrigia elongata (Host) Nevski	Cereals	Wheat
+Elytrigia elongata (Host) Nevski subsp. elongata	Cereals	Wheat
+Elytrigia elongata subsp. haifensis (Rech. f.) Valdés & H. Scholz	Cereals	Wheat
+Elytrigia elongata subsp. salsa (Melderis) Valdés & H. Scholz	Cereals	Wheat
+Elytrigia elongata subsp. turcica (McGuire) Valdés & H. Scholz	Cereals	Wheat
+Elytrigia intermedia (Host) Nevski	Cereals	Intermediate wheatgrass
+Elytrigia intermedia (Host) Nevski subsp. intermedia	Cereals	Intermediate wheatgrass
+Elytrigia intermedia subsp. mucronata (Bercht.) Valdés & H. Scholz	Cereals	Intermediate wheatgrass
+Elytrigia intermedia subsp. podperae (Nábĕlek) Á. Löve	Cereals	Intermediate wheatgrass
+Diplotaxis siifolia Kunze subsp. siifolia	Vegetables (root)/fodder	Turnip
+Diplotaxis siifolia subsp. vicentina (Samp.) Mart.-Laborde	Oils/fodder	Rape
+Diplotaxis tenuifolia (L.) DC.	Oils/fodder	Rape
+Echinochloa crus-galli (L.) P. Beauv.	Cereals	Japanese barnyard millet
+Echinochloa crus-galli (L.) P. Beauv. subsp. crus-galli	Cereals	Japanese barnyard millet
+Echinochloa crus-galli subsp. hispidula (Retz.) Honda	Cereals	Japanese barnyard millet
+Echinochloa crus-galli subsp. spiralis (Vasinger) Tzvelev	Cereals	Japanese barnyard millet
+Echinochloa oryzicola (Vasinger) Vasinger	Cereals	Japanese barnyard millet
+Eleusine coracana (L.) Gaertn.	Cereals	Finger millet
+Diplotaxis erucoides (L.) DC. subsp. erucoides	Oils/fodder	Rape
+Diplotaxis muralis (L.) DC.	Oils/fodder	Rape
+Diplotaxis siettiana Maire	Oils/fodder	Rape
+Diplotaxis siifolia Kunze	Oils/fodder	Rape
+Daucus carota subsp. drepanensis (Lojac.) Heywood	Vegetables (root)	Carrot
+Daucus carota subsp. gadecaei (Rouy & E. G. Camus) Heywood	Vegetables (root)	Carrot
+Daucus carota subsp. gummifer (Syme) Hook. f.	Vegetables (root)	Carrot
+Daucus carota subsp. halophilus (Brot.) A. Pujadas	Vegetables (root)	Carrot
+Daucus carota subsp. hispanicus (Gouan) Thell.	Vegetables (root)	Carrot
+Daucus carota subsp. hispidus (Ball) Heywood	Vegetables (root)	Carrot
+Daucus carota subsp. major (Vis.) Arcang.	Vegetables (root)	Carrot
+Daucus carota subsp. majoricus A. Pujadas	Vegetables (root)	Carrot
+Daucus carota subsp. maximus (Desf.) Ball	Vegetables (root)	Carrot
+Daucus carota subsp. rupestris (Guss.) Heywood	Vegetables (root)	Carrot
+Daucus carota subsp. sativus (Hoffm.) Arcang.	Vegetables (root)	Carrot
+Daucus gracilis Steinh.	Vegetables (root)	Carrot
+Daucus sahariensis Murb.	Vegetables (root)	Carrot
+Diplotaxis erucoides (L.) DC.	Oils/fodder	Rape
+Dactylis glomerata subsp. hackelii (Asch. & Graebn.) Cif. & Giacom.	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. hispanica (Roth) Nyman	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. ibizensis Stebbins & D. Zohary	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. izcoi S. Ortíz & Rodr. Oubiña	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. juncinella (Bory) K. Richt.	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. lobata (Drejer) H. Lindb.	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. lusitanica Stebbins & D. Zohary	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. merinoana (Horjales & al.) H. Scholz	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. oceanica G. Guignard	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. reichenbachii (Dalla Torre & Sarnth.) Stebbins & D. Zohary	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. rigida (Boiss. & Heldr.) Hayek	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. slovenica (Domin) Domin	Fodder/forage	Cocksfoot
+Dactylis glomerata subsp. stebbinsii (Horjales & al.) H. Scholz	Fodder/forage	Cocksfoot
+Daucus carota L.	Vegetables (root)	Carrot
+Daucus carota L. subsp. carota	Vegetables (root)	Carrot
+Daucus carota subsp. azoricus Franco	Vegetables (root)	Carrot
+Daucus carota subsp. cantabricus A. Pujadas	Vegetables (root)	Carrot
+Daucus carota subsp. commutatus (Paol.) Thell.	Vegetables (root)	Carrot
+Crambe sventenii B. Pett. ex Bramwell & Sundell	Vegetables (green)	Ethiopian cabbage
+Crambe tamadabensis A. Prina & A. Marrero	Vegetables (green)	Ethiopian cabbage
+Crambe wildpretii Prina & Bramwell	Vegetables (green)	Ethiopian cabbage
+Cucumis dipsaceus Spach	Fruits	Melon
+Cucumis sativus L.	Fruits (savoury)	Cucumber
+Cynara algarbiensis Mariz	Vegetables (green)	Artichoke
+Cynara auranitica Post	Vegetables (green)	Artichoke
+Cynara baetica (Spreng.) Pau	Vegetables (green)	Artichoke
+Cynara baetica (Spreng.) Pau subsp. baetica	Vegetables (green)	Artichoke
+Cynara cardunculus L.	Vegetables (green)	Artichoke
+Cynara cardunculus subsp. flavescens Wiklund	Vegetables (green)	Artichoke
+Cynara cardunculus subsp. zingaroensis (Raimondo & Domina) Raimondo & Domina	Vegetables (green)	Artichoke
+Cynara humilis L.	Vegetables (green)	Artichoke
+Cynara tournefortii Boiss. & Reut.	Vegetables (green)	Artichoke
+Cynodon dactylon (L.) Pers.	Fodder/forage	Bermuda grass
+Dactylis glomerata L.	Fodder/forage	Cocksfoot
+Dactylis glomerata L. subsp. glomerata	Fodder/forage	Cocksfoot
+Corylus avellana L.	Nuts	Hazelnut
+Corylus colurna L.	Nuts	Giant filbert
+Corylus maxima Mill.	Nuts	Giant filbert
+Crambe arborea H. Christ	Vegetables (green)	Ethiopian cabbage
+Crambe aspera M. Bieb.	Vegetables (green)	Ethiopian cabbage
+Crambe feuillei A. Santos ex Prina & Mart.-Laborde	Vegetables (green)	Ethiopian cabbage
+Crambe filiformis Jacq.	Vegetables (green)	Ethiopian cabbage
+Crambe fruticosa L. f.	Vegetables (green)	Ethiopian cabbage
+Crambe gomeraea H. Christ	Vegetables (green)	Ethiopian cabbage
+Crambe hispanica L.	Vegetables (green)	Ethiopian cabbage
+Crambe laevigata DC. ex H. Christ	Vegetables (green)	Ethiopian cabbage
+Crambe microcarpa A. Santos	Vegetables (green)	Ethiopian cabbage
+Crambe pritzelii Bolle	Vegetables (green)	Ethiopian cabbage
+Crambe scaberrima Bramwell	Vegetables (green)	Ethiopian cabbage
+Crambe scoparia Svent.	Vegetables (green)	Ethiopian cabbage
+Coincya monensis subsp. cheiranthos (Vill.) Aedo, Leadley & Muñoz Garm	Spices	Black mustard
+Coincya monensis subsp. nevadensis (Willk.) Leadlay	Spices	Black mustard
+Coincya monensis subsp. orophila (Franco) Aedo, Leadlay & Muñoz Garm.	Spices	Black mustard
+Coincya monensis subsp. puberula (Pau) Leadlay	Spices	Black mustard
+Comarum palustre L.	Fruits	Strawberry
+Cicer pinnatifidum Jaub. & Spach	Pulses	Chickpea
+Cicer reticulatum Ladiz.	Pulses	Chickpea
+Cichorium calvum Asch.	Vegetables (salad)/forage	Chicory
+Cichorium endivia L.	Vegetables (salad)/forage	Chicory
+Cichorium intybus L.	Vegetables (salad)/forage	Chicory
+Cichorium pumilum Jacq.	Vegetables (salad)/forage	Chicory
+Cichorium spinosum L.	Vegetables (salad)/forage	Chicory
+Citrullus colocynthis (L.) Schrad.	Fruits	Watermelon
+Citrullus lanatus (Thunb.) Matsum. & Nakai	Fruits	Watermelon
+Coincya monensis (L.) Greuter & Burdet	Oils/fodder	Rape
+Coincya monensis (L.) Greuter & Burdet subsp. monensis	Spices	Black mustard
+Carthamus tenuis (Boiss. & C. I. Blanche) Bornm. subsp. tenuis	Oils	Safflower seed
+Carthamus tenuis subsp. foliosus Hanelt	Oils	Safflower seed
+Carthamus tenuis subsp. gracillimus (Rech. f.) Hanelt	Oils	Safflower seed
+Castanea crenata Siebold & Zucc.	Nuts	American chestnut
+Castanea sativa Mill.	Nuts	Chestnut
+Chenopodium berlandieri Moq.	Cereals	Quinoa
+Chenopodium ficifolium Sm.	Cereals	Quinoa
+Chenopodium hircinum Schrad.	Cereals	Quinoa
+Chenopodium quinoa Willd.	Cereals	Quinoa
+Cicer bijugum Rech. f.	Pulses	Chickpea
+Cicer canariense A. Santos & G. P. Lewis	Pulses	Chickpea
+Cicer echinospermum P. H. Davis	Pulses	Chickpea
+Cicer graecum Boiss.	Pulses	Chickpea
+Brassica tournefortii Gouan	Spices/oils/vegetables (green)	Mustard
+Brassica villosa Biv.	Vegetables (green)	Cabbage
+Brassica villosa subsp. drepanensis (Caruel) Raimondo & P. Mazzola	Vegetables (green)	Cabbage
+Carthamus boissieri Halácsy	Oils	Safflower seed
+Carthamus creticus L.	Oils	Safflower seed
+Carthamus dentatus (Forssk.) Vahl	Oils	Safflower seed
+Carthamus dentatus (Forssk.) Vahl subsp. dentatus	Oils	Safflower seed
+Carthamus dentatus subsp. ruber (Link) Hanelt	Oils	Safflower seed
+Carthamus glaucus M. Bieb.	Oils	Safflower seed
+Carthamus glaucus M. Bieb. subsp. glaucus	Oils	Safflower seed
+Carthamus lanatus L.	Oils	Safflower seed
+Carthamus leucocaulos Sm.	Oils	Safflower seed
+Carthamus persicus Willd.	Oils	Safflower seed
+Carthamus tenuis (Boiss. & C. I. Blanche) Bornm.	Oils	Safflower seed
+Brassica rapa (L.) L.	Spices	White mustard
+Brassica rapa L. subsp. rapa	Vegetables (root)/fodder	Turnip
+Brassica rapa subsp. campestris (L.) A. R. Clapham	Vegetables (root)/fodder	Turnip
+Brassica rapa subsp. chinensis (L.) Hanelt	Vegetables (root)/fodder	Turnip
+Brassica rapa subsp. oleifera (DC.) Metzg.	Vegetables (root)/fodder	Turnip
+Brassica rapa subsp. pekinensis (Lour.) Hanelt	Vegetables (root)/fodder	Turnip
+Brassica repanda subsp. glabrescens (Poldini) Gómez Campo	Oils/fodder	Rape
+Brassica rupestris Raf.	Vegetables (green)	Cabbage
+Brassica oleracea subsp. caulorapa (DC.) Metzg.	Vegetables (green)	Ethiopian cabbage
+Brassica oleracea subsp. fruticosa Metzg.	Oils/fodder	Rape
+Brassica oxyrrhina (Coss.) Willk.	Spices/oils/vegetables (green)	Mustard
+Brassica oleracea subsp. botrytis (L.) Duchesne	Vegetables (salad)	Perennial wall rocket
+Brassica oleracea subsp. capitata (L.) Duchesne	Oils/fodder	Rape
+Brassica oleracea L.	Vegetables (salad)	Salad rocket
+Brassica oleracea L. subsp. oleracea	Oils/fodder	Rape
+Brassica nigra (L.) W. D. J. Koch	Oils/fodder	Rape
+Brassica insularis Moris	Vegetables (root)/fodder	Turnip
+Brassica macrocarpa Guss.	Vegetables (green)	Cabbage
+Brassica maurorum Durieu	Oils/fodder	Rape
+Brassica montana Pourr.	Oils/fodder	Rape
+Brassica napus L.	Oils/fodder	Rape
+Brassica elongata Ehrh. subsp. elongata	Vegetables (green)	Cabbage
+Brassica elongata subsp. integrifolia (Boiss.) Breistr.	Vegetables (green)	Cabbage
+Brassica elongata subsp. pinnatifida (Schmalh.) Greuter & Burdet	Vegetables (green)	Cabbage
+Brassica fruticulosa Cirillo	Oils/fodder	Rape
+Brassica fruticulosa Cirillo subsp. fruticulosa	Oils/fodder	Rape
+Brassica fruticulosa subsp. cossoniana (Boiss. & Reut.) Maire	Oils/fodder	Rape
+Brassica hilarionis Post	Oils/fodder	Rape
+Brassica incana Ten.	Oils/fodder	Rape
+Beta trigyna Waldst. & Kit.	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta vulgaris L.	Fodder/forage	Fodder beet
+Beta vulgaris L. subsp. vulgaris	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta vulgaris subsp. adanensis Pamuk.	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta vulgaris subsp. maritima (L.) Arcang.	Sugar/fodder/vegetables (green)	Sugarbeet
+Brassica barrelieri (L.) Janka	Vegetables (root)/fodder	Turnip
+Brassica cretica Lam.	Oils/fodder	Rape
+Brassica cretica Lam. subsp. cretica	Vegetables (green)	Cabbage
+Brassica cretica subsp. aegaea (Heldr. & Halácsy) Snogerup, M. A. Gust. & Bothmer	Vegetables (green)	Cabbage
+Brassica cretica subsp. laconica M. A. Gust. & Snogerup	Vegetables (green)	Cabbage
+Brassica cretica subsp. nivea (Boiss. & Spruner) M. A. Gust. & Snogerup	Vegetables (green)	Cabbage
+Brassica elongata Ehrh.	Oils/fodder	Rape
+Avena fatua subsp. meridionalis Malzev	Cereals	Oat
+Avena hybrida Peterm.	Cereals	Oat
+Avena insularis Ladiz.	Cereals	Oat
+Avena longiglumis Durieu	Cereals	Oat
+Avena murphyi Ladiz.	Cereals	Oat
+Avena sterilis L.	Cereals	Oat
+Avena sterilis L. subsp. sterilis	Cereals	Oat
+Avena sterilis subsp. atherantha (C. Presl) H. Scholz	Cereals	Oat
+Avena sterilis subsp. ludoviciana (Durieu) Gillet & Magne	Cereals	Oat
+Avena sterilis subsp. trichophylla (K. Koch) Malzev	Cereals	Oat
+Avena strigosa Schreb.	Cereals	Oat
+Barbarea verna (Mill.) Asch.	Vegetables (salad)	American cress/early winter cress
+Beta corolliflora Buttler	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta lomatogona Fisch. & C. A. Mey.	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta macrocarpa Guss.	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta macrorhiza Steven	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta nana Boiss. & Heldr.	Sugar/fodder/vegetables (green)	Sugarbeet
+Beta patula Aiton	Sugar/fodder/vegetables (green)	Sugarbeet
+Astragalus arenarius L.	Fodder/forage	Milkvetch
+Astragalus cicer L.	Fodder/forage	Chickpea milkvetch
+Astragalus pelecinus (L.) Barneby	Fodder/forage	Serradella
+Astragalus pelecinus (L.) Barneby subsp. pelecinus	Fodder/forage	Serradella
+Atriplex halimus L.	Fodder/forage	Mediterranean saltbush
+Avena barbata Link	Cereals	Oat
+Avena barbata Link subsp. barbata	Cereals	Oat
+Avena barbata subsp. castellana Romero Zarco	Cereals	Oat
+Avena barbata subsp. hirtula (Lag.) Tab. Morais	Cereals	Oat
+Avena barbata subsp. lusitanica (Tab. Morais) Romero Zarco	Cereals	Oat
+Avena barbata subsp. wiestii (Steud.) Mansf.	Cereals	Oat
+Avena byzantina K. Koch	Cereals	Oat
+Avena clauda Durieu	Cereals	Oat
+Avena eriantha Durieu	Cereals	Oat
+Avena fatua L.	Cereals	Oat
+Avena fatua L. subsp. fatua	Cereals	Oat
+Avena fatua subsp. aemulans (Nevski) H. Scholz	Cereals	Oat
+Avena fatua subsp. cultiformis Malzev	Cereals	Oat
+Asparagus arborescens Willd. ex Schult. & Schult. f.	Vegetables (green)	Asparagus
+Asparagus densiflorus (Kunth) Jessop	Vegetables (green)	Asparagus
+Asparagus fallax Svent.	Vegetables (green)	Asparagus
+Asparagus horridus L.	Vegetables (green)	Asparagus
+Asparagus inderiensis Blume ex Ledeb.	Vegetables (green)	Asparagus
+Asparagus maritimus (L.) Mill.	Vegetables (green)	Asparagus
+Asparagus nesiotes subsp. purpureiensis Marrero Rodr. & A. Ramos	Vegetables (green)	Asparagus
+Asparagus nesiotes Svent.	Vegetables (green)	Asparagus
+Asparagus nesiotes Svent. subsp. nesiotes	Vegetables (green)	Asparagus
+Asparagus officinalis L.	Vegetables (green)	Asparagus
+Asparagus officinalis L. subsp. officinalis	Vegetables (green)	Asparagus
+Asparagus officinalis subsp. prostratus (Dumort.) Corb.	Vegetables (green)	Asparagus
+Asparagus pastorianus Webb & Berthel.	Vegetables (green)	Asparagus
+Asparagus plocamoides Webb ex Svent.	Vegetables (green)	Asparagus
+Asparagus pseudoscaber Grecescu	Vegetables (green)	Asparagus
+Asparagus tenuifolius Lam.	Vegetables (green)	Asparagus
+Asparagus verticillatus L.	Vegetables (green)	Asparagus
+Astartoseris triquetra (Labill.) N. Kilian & al.	Vegetables (salad)	Lettuce
+Alopecurus pratensis L. subsp. pratensis	Fodder/forage	Meadow foxtail
+Alopecurus pratensis subsp. alpestris (Wahlenb.) Selander	Fodder/forage	Meadow foxtail
+Alopecurus pratensis subsp. laguriformis (Schur) Tzvelev	Fodder/forage	Meadow foxtail
+Alopecurus pratensis subsp. pseudonigricans O. Schwarz	Fodder/forage	Meadow foxtail
+Amblyopyrum muticum (Boiss.) Eig	Cereals	Wheat
+Armoracia rusticana P. Gaertn. , B. Mey. & Scherb.	Vegetables (flavouring)	Horseradish
+Arrhenatherum elatius (L.) J. Presl & C. Presl	Fodder/forage	Tall oatgrass
+Arrhenatherum elatius (L.) J. Presl & C. Presl subsp. elatius	Fodder/forage	Tall oatgrass
+Arrhenatherum elatius subsp. baeticum Romero Zarco	Fodder/forage	Tall oatgrass
+Arrhenatherum elatius subsp. bulbosum (Willd.) Schübl. & G. Martens	Fodder/forage	Tall oatgrass
+Arrhenatherum elatius subsp. nebrodense (Brullo & al.) Giardina & Raimondo	Fodder/forage	Tall oatgrass
+Arrhenatherum elatius subsp. sardoum (Em. Schmid) Gamisans	Fodder/forage	Tall oatgrass
+Asparagus acutifolius L.	Vegetables (green)	Asparagus
+Asparagus albus L.	Vegetables (green)	Asparagus
+Asparagus aphyllus L.	Vegetables (green)	Asparagus
+Asparagus aphyllus L. subsp. aphyllus	Vegetables (green)	Asparagus
+Asparagus aphyllus subsp. orientalis (Baker) P. H. Davis	Vegetables (green)	Asparagus
+Allium melananthum Coincy	Vegetables (flavouring)	Alliums
+Allium pardoi Loscos	Vegetables (flavouring)	Alliums
+Allium pervestitum Klokov	Vegetables (flavouring)	Alliums
+Allium pyrenaicum Costa & Vayr.	Vegetables (flavouring)	Alliums
+Allium sativum L.	Vegetables (flavouring)	Garlic
+Allium scabriscapum Boiss.	Vegetables (flavouring)	Chinese chives
+Allium schmitzii Cout.	Vegetables (flavouring)	Chinese scallion
+Allium schoenoprasum L.	Vegetables (flavouring)	Chinese scallion
+Allium schoenoprasum L. subsp. schoenoprasum	Vegetables (flavouring)	Chives
+Allium schoenoprasum subsp. gredense (Rivas Goday) Rivas Mart., Fern. Gonz. & Sánchez
+Mata	Vegetables (flavouring)	Chives
+Allium schoenoprasum subsp. latiorifolium (Pau) Rivas Mart., Fern. Gonz. & Sánchez Mata	Vegetables (flavouring)	Chives
+Allium truncatum (Feinbrun) F. Kollmann & D. Zohary	Vegetables (flavouring/green)	Leek
+Allium tuberosum Rottler ex Spreng.	Vegetables (flavouring)	Chinese chives
+Alopecurus pratensis L.	Fodder/forage	Meadow foxtail
+Agrostis stolonifera subsp. straminea (Hartm.) Tzvelev	Fodder/forage	Creeping bent
+Allium albiflorum Omelczuk	Vegetables (flavouring)	Alliums
+Allium ampeloprasum L.	Vegetables (flavouring)	Garlic
+Allium atroviolaceum Boiss.	Vegetables (flavouring)	Garlic
+Allium bourgeaui Rech. f.	Vegetables (flavouring/green)	Leek
+Allium bourgeaui Rech. f. subsp. bourgeaui	Vegetables (flavouring/green)	Leek
+Allium bourgeaui subsp. creticum Bothmer	Vegetables (flavouring/green)	Leek
+Allium bourgeaui subsp. cycladicum Bothmer	Vegetables (flavouring/green)	Leek
+Allium commutatum Guss.	Vegetables (flavouring/green)	Leek
+Allium convallarioides Grossh.	Vegetables (flavouring)	Alliums
+Allium corsicum Jauzein & al.	Vegetables (flavouring)	Alliums
+Allium exaltatum (Meikle) Brullo, Pavone, Salmeri & Venora	Vegetables (flavouring)	Alliums
+Allium fistulosum L.	Vegetables (flavouring)	Chinese chives
+Allium lojaconoi Brullo, Lanfr. & Pavone	Vegetables (flavouring)	Alliums
+Agropyron tanaiticum Nevski	Fodder/forage	Crested wheatgrass
+Agrostis capillaris L.	Fodder/forage	Brown top
+Agrostis capillaris L. subsp. capillaris	Fodder/forage	Brown top
+Agrostis capillaris subsp. oreophila (O. Schwarz) Soják	Fodder/forage	Brown top
+Agrostis capillaris subsp. repens (Schur) Soják	Fodder/forage	Brown top
+Agrostis gigantea Roth	Fodder/forage	Red top
+Agrostis gigantea Roth subsp. gigantea	Fodder/forage	Red top
+Agrostis gigantea subsp. glaucescens (Widén) Valdés & H. Scholz	Fodder/forage	Red top
+Agrostis gigantea subsp. maeotica (Klokov) Tzvelev	Fodder/forage	Red top
+Agrostis gigantea subsp. moldavica (Dobrescu & Beldie) Dihoru	Fodder/forage	Red top
+Agrostis gigantea subsp. pontica (Grecescu) Dihoru	Fodder/forage	Red top
+Agrostis stolonifera L.	Fodder/forage	Creeping bent
+Agrostis stolonifera L. subsp. stolonifera	Fodder/forage	Creeping bent
+Agrostis stolonifera subsp. albida (Trin.) Tzvelev	Fodder/forage	Creeping bent
+Agrostis stolonifera subsp. filfiolia (Link) H. Scholz	Fodder/forage	Creeping bent
+Agrostis stolonifera subsp. gaditana (Boiss. & Reut.) Valdés & H. Scholz	Fodder/forage	Creeping bent
+Agrostis stolonifera subsp. maritima (Lam.) Vasc.	Fodder/forage	Creeping bent
+Agrostis stolonifera subsp. scabriglumis (Boiss. & Reut.) Maire	Fodder/forage	Creeping bent
+Agropyron cimmericum Nevski	Cereals	Wheat
+Agropyron cristatum (L.) Gaertn.	Cereals	Wheat
+Agropyron cristatum (L.) Gaertn. subsp. cristatum	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. brandzae (Panţu & Solacolu) Melderis	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. kazachstanicum Tzvelev	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. pectinatum (M. Bieb.) Tzvelev	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. ponticum (Nevski) Tzvelev	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. puberulum (Steud.) Tzvelev	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. sabulosum Lavrenko	Fodder/forage	Crested wheatgrass
+Agropyron cristatum subsp. sclerophyllum Tzvelev	Fodder/forage	Crested wheatgrass
+Agropyron dasyanthum Ledeb.	Cereals	Wheat
+Agropyron desertorum (Link) Schult.	Cereals	Wheat
+Aegilops juvenalis (Thell.) Eig	Cereals	Wheat
+Aegilops kotschyi Boiss.	Cereals	Wheat
+Aegilops neglecta Bertol.	Cereals	Wheat
+Aegilops peregrina (Hack.) Maire & Weiller	Cereals	Wheat
+Aegilops peregrina (Hack.) Maire & Weiller subsp. peregrina	Cereals	Wheat
+Aegilops peregrina subsp. cylindrostachys (Eig & Feinbrun) Maire & Weiller	Cereals	Wheat
+Aegilops speltoides subsp. ligustica (Savign.) Zhuk.	Cereals	Wheat
+Aegilops speltoides Tausch	Cereals	Wheat
+Aegilops speltoides Tausch subsp. speltoides	Cereals	Wheat
+Aegilops tauschii Coss.	Cereals	Wheat
+Aegilops tauschii Coss. subsp. tauschii	Cereals	Wheat
+Aegilops triuncialis L.	Cereals	Wheat
+Aegilops triuncialis L. subsp. triuncialis	Cereals	Wheat
+Aegilops triuncialis subsp. persica (Boiss.) Zhuk.	Cereals	Wheat
+Aegilops umbellulata Zhuk.	Cereals	Wheat
+Aegilops uniaristata Vis.	Cereals	Wheat
+Aegilops vavilovii (Zhuk.) Chennav.	Cereals	Wheat
+Aegilops ventricosa Tausch	Cereals	Wheat
